@@ -1,0 +1,109 @@
+---
+ID: 24282
+post_title: About Me 03 (Demo)
+author: Stephanie
+post_excerpt: ""
+layout: page
+permalink: >
+  http://clientdemo2.stephaniegordondesign.com/pages/about-me-03/
+published: true
+post_date: 2016-08-25 14:26:56
+---
+[vc_row full_width="stretch_row_content" full_height="yes" css=".vc_custom_1472135096207{margin-bottom: 0px !important;background-image: url(http://clientdemo2.stephaniegordondesign.com/wp-content/uploads/2016/08/1_mini-1-1.jpg?id=24283) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column offset="vc_hidden-xs"][vc_column_text css=".vc_custom_1471615272275{padding-left: 100px !important;}"]
+<div class="title-h1" style="font-size: 100px; line-height: 100px;"><span style="color: #222222;"><span class="light">HELLO</span>, I'M</span> <span style="color: #f4ba11;">EVA</span></div>
+[/vc_column_text][vc_column_text css=".vc_custom_1471358350178{padding-top: 15px !important;}"]
+<div class="title-h2" style="text-align: center;"><span style="color: #222222;">I'm a photographer</span></div>
+[/vc_column_text][/vc_column][vc_column offset="vc_hidden-lg vc_hidden-md vc_hidden-sm"][vc_column_text]
+<div class="title-xlarge" style="text-align: center;"><span style="color: #222222;"><span class="light">HELLO</span>, I'M</span> <span style="color: #f4ba11;">EVA</span></div>
+[/vc_column_text][vc_column_text css=".vc_custom_1471358350178{padding-top: 15px !important;}"]
+<div class="title-h2" style="text-align: center;"><span style="color: #222222;">I'm a photographer</span></div>
+[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1471701695406{margin-top: -2px !important;margin-bottom: 0px !important;}"][vc_column css=".vc_custom_1471701422538{margin-top: -190px !important;}"][vc_column_text]<a class="arrow scroll-to-anchor" href="#link">mouse</a>[/vc_column_text][/vc_column][vc_column css=".vc_custom_1471701619746{padding-top: 0px !important;}"][/vc_column][/vc_row][vc_row full_width="stretch_row_content" equal_height="yes" css=".vc_custom_1471701507360{margin-bottom: 0px !important;}" el_id="link"][vc_column width="1/2" offset="vc_hidden-md vc_hidden-sm vc_hidden-xs"][vc_column_text css=".vc_custom_1471429437585{padding-top: 115px !important;}"]
+<div class="title-xlarge" style="text-align: right;"><span style="color: #222222;">About</span></div>
+[/vc_column_text][gem_divider margin_top="175"][vc_row_inner][vc_column_inner width="1/2" css=".vc_custom_1472135117606{padding-top: 165px !important;padding-bottom: 145px !important;background-image: url(http://clientdemo2.stephaniegordondesign.com/wp-content/uploads/2016/08/4-1.jpg?id=24284) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" offset="vc_hidden-md vc_hidden-sm vc_hidden-xs"][vc_column_text]
+<div class="title-h4" style="text-align: center;"><span style="color: #222222;">object</span></div>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" css=".vc_custom_1472135133832{padding-top: 165px !important;padding-bottom: 145px !important;background-image: url(http://clientdemo2.stephaniegordondesign.com/wp-content/uploads/2016/08/5-2.jpg?id=24285) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" offset="vc_hidden-md vc_hidden-sm vc_hidden-xs"][vc_column_text]
+<div class="title-h4" style="text-align: center;"><span style="color: #ffffff;">nature</span></div>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][vc_column width="1/2" css=".vc_custom_1471602657879{padding-top: 0px !important;background-color: #fbc833 !important;}" offset="vc_col-lg-3"][vc_row_inner css=".vc_custom_1471603159706{margin-bottom: 0px !important;}"][vc_column_inner offset="vc_hidden-md vc_hidden-sm vc_hidden-xs" css=".vc_custom_1471603250124{margin-bottom: 0px !important;}"][vc_column_text css=".vc_custom_1471603290660{margin-bottom: 0px !important;padding-top: 115px !important;}"]
+<div class="title-xlarge"><span class="light" style="color: #222222;">Me</span></div>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner][vc_column_inner offset="vc_hidden-lg" css=".vc_custom_1471603188499{margin-bottom: 0px !important;}"][vc_column_text css=".vc_custom_1471602460836{padding-top: 115px !important;}"]
+<div class="title-xlarge" style="text-align: left;"><span style="color: #222222;">About </span><span class="light" style="color: #222222;">Me</span></div>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_column_text css=".vc_custom_1471429705871{padding-top: 15px !important;padding-left: 33px !important;}"]
+<div class="title-h4"><span style="color: #222222;">Here are a fews things about me</span></div>
+[/vc_column_text][vc_column_text css=".vc_custom_1471602267433{padding-top: 15px !important;padding-bottom: 21px !important;padding-left: 33px !important;}"]<span style="color: #222222; display: block; max-width: 300px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit. In voluptate velit esse cillum dolore fugiat nulla pariatur. </span>[/vc_column_text][gem_icon_with_title icon_pack="elegant" icon_size="medium" level="h4" icon_elegant="e00f" icon_color="#222222" title="12570 photos" title_color="#222222"][gem_divider margin_top="100"][/vc_column][vc_column width="1/2" css=".vc_custom_1471602667120{padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;}" el_class="quoted-block" offset="vc_col-lg-3"][vc_row_inner][vc_column_inner offset="vc_hidden-xs"][gem_divider margin_top="280"][/vc_column_inner][vc_column_inner offset="vc_hidden-lg vc_hidden-md vc_hidden-sm"][gem_divider margin_top="40"][/vc_column_inner][/vc_row_inner][vc_column_text css=".vc_custom_1471431159216{padding-right: 55px !important;padding-left: 55px !important;}"]
+<div class="styled-subtitle"><span style="color: #222222;">...Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor!</span></div>
+[/vc_column_text][vc_row_inner][vc_column_inner offset="vc_hidden-lg vc_hidden-md vc_hidden-sm"][gem_divider margin_top="40"][/vc_column_inner][/vc_row_inner][/vc_column][vc_column offset="vc_hidden-lg"][vc_row_inner][vc_column_inner width="1/2" css=".vc_custom_1471602584743{padding-top: 165px !important;padding-bottom: 145px !important;background-image: url(http://clientdemo2.stephaniegordondesign.com/wp-content/uploads/2016/08/4-1.jpg?id=26714) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" offset="vc_hidden-lg"][vc_column_text]
+<div class="title-h4" style="text-align: center;"><span style="color: #222222;">object</span></div>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" css=".vc_custom_1471602590161{padding-top: 165px !important;padding-bottom: 145px !important;background-image: url(http://clientdemo2.stephaniegordondesign.com/wp-content/uploads/2016/08/5-2.jpg?id=26715) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" offset="vc_hidden-lg"][vc_column_text]
+<div class="title-h4" style="text-align: center;"><span style="color: #ffffff;">nature</span></div>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row full_width="stretch_row_content" equal_height="yes" css=".vc_custom_1471434275992{margin-bottom: 0px !important;}"][vc_column width="1/2" css=".vc_custom_1472135151965{padding-top: 165px !important;padding-bottom: 145px !important;background-image: url(http://clientdemo2.stephaniegordondesign.com/wp-content/uploads/2016/08/6.jpg?id=24286) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" offset="vc_col-lg-3"][vc_column_text]
+<div class="title-h4" style="text-align: center;"><span style="color: #ffffff;">portrait</span></div>
+[/vc_column_text][/vc_column][vc_column width="1/2" css=".vc_custom_1472135166950{padding-top: 165px !important;padding-bottom: 145px !important;background-image: url(http://clientdemo2.stephaniegordondesign.com/wp-content/uploads/2016/08/7-1.jpg?id=24287) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" offset="vc_col-lg-3"][vc_column_text]
+<div class="title-h4" style="text-align: center;"><span style="color: #222222;">wedding</span></div>
+[/vc_column_text][/vc_column][vc_column css=".vc_custom_1471602696517{padding-right: 0px !important;padding-left: 50px !important;background-color: #ededed !important;}" offset="vc_col-lg-6"][gem_diagram type="line"][gem_skill title="Objects" amount="86" color="#222"]
+[gem_skill title="Nature" amount="75" color="#222"]
+[gem_skill title="Portrait" amount="80" color="#222"]
+[gem_skill title="Wedding" amount="67" color="#222"][/gem_diagram][gem_divider][vc_row_inner][vc_column_inner][vc_empty_space height="40px"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row full_width="stretch_row_content" equal_height="yes" css=".vc_custom_1471434275992{margin-bottom: 0px !important;}"][vc_column width="1/4" offset="vc_hidden-md vc_hidden-sm vc_hidden-xs"][/vc_column][vc_column width="1/2" css=".vc_custom_1472135183622{background-image: url(http://clientdemo2.stephaniegordondesign.com/wp-content/uploads/2016/08/8-2.jpg?id=24288) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" offset="vc_col-lg-3"][vc_row_inner][vc_column_inner offset="vc_hidden-xs"][vc_column_text css=".vc_custom_1471434897183{padding-top: 85px !important;}"]
+<div class="title-h1" style="text-align: right;"><span style="color: #fbc833;">My Steps</span></div>
+[/vc_column_text][/vc_column_inner][vc_column_inner offset="vc_hidden-lg vc_hidden-md vc_hidden-sm"][vc_column_text css=".vc_custom_1471604570830{padding-top: 60px !important;}"]
+<div class="title-h1" style="text-align: right;"><span style="color: #fbc833;">My Steps </span></div>
+[/vc_column_text][vc_column_text css=".vc_custom_1471604558596{margin-top: -20px !important;}"]
+<div class="title-h1" style="text-align: right;"><span class="light" style="color: #ffffff;">To Success</span></div>
+[/vc_column_text][/vc_column_inner][vc_column_inner el_class="line" offset="vc_hidden-sm vc_hidden-xs"][gem_divider margin_top="85"][vc_column_text css=".vc_custom_1471435127942{padding-right: 33px !important;}"]
+<div class="title-h4" style="text-align: right;"><span style="color: #ffffff;">2010-2012</span></div>
+[/vc_column_text][gem_divider margin_top="40" margin_bottom="40"][vc_column_text css=".vc_custom_1471441600034{padding-right: 33px !important;}"]
+<div class="title-h4" style="text-align: right;"><span style="color: #ffffff;">2013-2014</span></div>
+[/vc_column_text][gem_divider margin_top="40" margin_bottom="40"][vc_column_text css=".vc_custom_1471441612363{padding-right: 33px !important;}"]
+<div class="title-h4" style="text-align: right;"><span style="color: #ffffff;">2015-2016</span></div>
+[/vc_column_text][/vc_column_inner][vc_column_inner el_class="line" offset="vc_hidden-lg vc_hidden-md vc_hidden-xs"][gem_divider margin_top="108"][vc_column_text css=".vc_custom_1471435127942{padding-right: 33px !important;}"]
+<div class="title-h4" style="text-align: right;"><span style="color: #ffffff;">2010-2012</span></div>
+[/vc_column_text][gem_divider margin_top="65" class_name="line" margin_bottom="65"][vc_column_text css=".vc_custom_1471441600034{padding-right: 33px !important;}"]
+<div class="title-h4" style="text-align: right;"><span style="color: #ffffff;">2013-2014</span></div>
+[/vc_column_text][gem_divider margin_top="65" class_name="line" margin_bottom="65"][vc_column_text css=".vc_custom_1471441612363{padding-right: 33px !important;}"]
+<div class="title-h4" style="text-align: right;"><span style="color: #ffffff;">2015-2016</span></div>
+[/vc_column_text][/vc_column_inner][vc_column_inner offset="vc_hidden-lg vc_hidden-md vc_hidden-sm"][vc_column_text]
+<div class="title-h4" style="text-align: right;"><span style="color: #ffffff;">2010-2012</span></div>
+[/vc_column_text][vc_column_text css=".vc_custom_1471604698966{padding-left: 33px !important;}"]
+<p style="text-align: right;"><span style="color: #ffffff;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</span></p>
+[/vc_column_text][vc_column_text]
+<div class="title-h4" style="text-align: right;"><span style="color: #ffffff;">2013-2014</span></div>
+[/vc_column_text][vc_column_text css=".vc_custom_1471604698966{padding-left: 33px !important;}"]
+<p style="text-align: right;"><span style="color: #ffffff;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</span></p>
+[/vc_column_text][vc_column_text]
+<div class="title-h4" style="text-align: right;"><span style="color: #ffffff;">2015-2016</span></div>
+[/vc_column_text][vc_column_text css=".vc_custom_1471604698966{padding-left: 33px !important;}"]
+<p style="text-align: right;"><span style="color: #ffffff;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</span></p>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][gem_divider margin_top="110"][/vc_column][vc_column width="1/2" offset="vc_hidden-xs"][vc_column_text css=".vc_custom_1471435025891{padding-top: 120px !important;}"]
+<div class="title-h1" style="text-align: left;"><span class="light" style="color: #222;">To Success</span></div>
+[/vc_column_text][gem_divider margin_top="81"][vc_column_text css=".vc_custom_1471442284810{padding-left: 33px !important;}"]<span style="color: #222222; display: block; max-width: 410px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</span>[/vc_column_text][gem_divider margin_top="43"][vc_column_text css=".vc_custom_1471442301008{padding-left: 33px !important;}"]<span style="color: #222222; display: block; max-width: 410px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</span>[/vc_column_text][gem_divider margin_top="43"][vc_column_text css=".vc_custom_1471442319357{padding-left: 33px !important;}"]<span style="color: #222222; display: block; max-width: 410px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</span>[/vc_column_text][gem_divider margin_top="43"][/vc_column][/vc_row][vc_row full_width="stretch_row_content" css=".vc_custom_1471444568368{margin-bottom: 0px !important;}"][vc_column css=".vc_custom_1471442875926{margin-bottom: 0px !important;}"][gem_portfolio_slider portfolios="aboutme" portfolio_layout="100%" portfolio_gaps_size="0" portfolio_display_titles="hover" portfolio_hover="zooming-blur" effects_enabled="1"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1472135201924{margin-bottom: 0px !important;background-image: url(http://clientdemo2.stephaniegordondesign.com/wp-content/uploads/2016/08/2_mini-2.jpg?id=24289) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][gem_divider margin_top="80"][vc_column_text]
+<div class="title-h4" style="margin-left: -21px;"><span style="color: #ffffff;">JOIN ME</span></div>
+[/vc_column_text][gem_divider margin_top="40"][vc_column_text css=".vc_custom_1471445878962{padding-left: 23px !important;}"]
+<div class="title-xlarge"><span style="color: #fbc833;">INSTAGRAM.</span></div>
+[/vc_column_text][vc_column_text css=".vc_custom_1471445886929{margin-top: -15px !important;padding-left: 23px !important;}"]
+<div class="title-xlarge"><span style="color: #fbc833;">TWITTER.</span></div>
+[/vc_column_text][vc_column_text css=".vc_custom_1471445897120{margin-top: -15px !important;padding-left: 23px !important;}"]
+<div class="title-xlarge"><span style="color: #fbc833;">FACEBOOK.</span></div>
+[/vc_column_text][gem_divider margin_top="260"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1471590694074{margin-bottom: 0px !important;background-color: #ededed !important;}" el_class="custom-blog"][vc_column css=".vc_custom_1471701747475{padding-right: 0px !important;padding-left: 0px !important;}"][gem_divider margin_top="-140"][gem_news style="slider" categories="fashion" post_per_page="3" hide_comments="1" hide_likes="1"][gem_divider margin_top="65"][gem_button position="center" style="outline" text_weight="thin" corner="0" border="1" separator="soft-double" icon_pack="elegant" text="all news from blog" text_color="#222222" border_color="#222222" hover_text_color="#ffffff" hover_background_color="#222222"][gem_divider margin_top="65"][/vc_column][/vc_row][vc_row equal_height="yes" css=".vc_custom_1471602904615{margin-bottom: 0px !important;}"][vc_column width="1/2" css=".vc_custom_1471604857275{background-color: #222222 !important;}" offset="vc_hidden-xs"][vc_column_text css=".vc_custom_1471591410017{padding-top: 80px !important;}"]
+<div class="title-xlarge" style="text-align: right;"><span style="color: #fbc833;">Contact</span></div>
+[/vc_column_text][vc_empty_space height="60px"][vc_column_text css=".vc_custom_1471591958027{padding-right: 33px !important;}"]
+<div class="styled-subtitle" style="text-align: right;"><span style="color: #989898; max-width: 430px;">908 New Hampshire Avenue Northwest #100, Washington, DC, 20037, United States</span></div>
+[/vc_column_text][vc_empty_space height="20px"][vc_column_text css=".vc_custom_1471591747414{padding-right: 33px !important;}"]
+<div class="title-h4" style="text-align: right;"><span style="color: #ffffff;">+1 916-875-2235</span></div>
+[/vc_column_text][vc_empty_space height="20px"][vc_column_text css=".vc_custom_1471592558037{padding-right: 33px !important;}"]
+<div class="styled-subtitle" style="text-align: right;"><span style="text-decoration: underline;"><span style="color: #989898; text-decoration: underline;">hello@persona.com</span></span></div>
+[/vc_column_text][vc_empty_space height="70px"][vc_column_text css=".vc_custom_1471592143947{padding-right: 33px !important;}"]
+<p style="text-align: right;"><span style="color: #b5b5b5;">© Copyright 2016 <span style="color: #fbc833;">CodexThemes</span></span></p>
+[/vc_column_text][vc_empty_space height="70px"][/vc_column][vc_column width="1/2" offset="vc_hidden-xs"][vc_column_text css=".vc_custom_1471613631033{padding-top: 80px !important;}"]
+<div class="title-xlarge"><span class="light" style="color: #222222;">Me</span></div>
+[/vc_column_text][vc_empty_space height="40px"][contact-form-7 id="13123"][/vc_column][/vc_row][vc_row equal_height="yes" css=".vc_custom_1471602904615{margin-bottom: 0px !important;}"][vc_column width="1/2" offset="vc_hidden-lg vc_hidden-md vc_hidden-sm"][vc_column_text css=".vc_custom_1471613676360{padding-top: 80px !important;}"]
+<div class="title-xlarge"><span class="light" style="color: #222222;">Write Me</span></div>
+[/vc_column_text][vc_empty_space height="40px"][contact-form-7 id="13123"][/vc_column][vc_column width="1/2" css=".vc_custom_1471604890996{background-color: #222222 !important;}" offset="vc_hidden-lg vc_hidden-md vc_hidden-sm"][vc_column_text css=".vc_custom_1471613643580{padding-top: 80px !important;}"]
+<div class="title-xlarge" style="text-align: right;"><span style="color: #fbc833;">Contact Me</span></div>
+[/vc_column_text][vc_empty_space height="60px"][vc_column_text css=".vc_custom_1471591958027{padding-right: 33px !important;}"]
+<div class="styled-subtitle" style="text-align: right;"><span style="color: #989898; max-width: 430px;">908 New Hampshire Avenue Northwest #100, Washington, DC, 20037, United States</span></div>
+[/vc_column_text][vc_empty_space height="20px"][vc_column_text css=".vc_custom_1471591747414{padding-right: 33px !important;}"]
+<div class="title-h4" style="text-align: right;"><span style="color: #ffffff;">+1 916-875-2235</span></div>
+[/vc_column_text][vc_empty_space height="20px"][vc_column_text css=".vc_custom_1471592558037{padding-right: 33px !important;}"]
+<div class="styled-subtitle" style="text-align: right;"><span style="text-decoration: underline;"><span style="color: #989898; text-decoration: underline;">hello@persona.com</span></span></div>
+[/vc_column_text][vc_empty_space height="70px"][vc_column_text css=".vc_custom_1471592143947{padding-right: 33px !important;}"]
+<p style="text-align: right;"><span style="color: #b5b5b5;">© Copyright 2016 <span style="color: #fbc833;">CodexThemes</span></span></p>
+[/vc_column_text][vc_empty_space height="70px"][/vc_column][/vc_row][vc_row][vc_column offset="vc_hidden-lg vc_hidden-md vc_hidden-sm vc_hidden-xs"][gem_icon pack="material" icon_material="f5ee"][/vc_column][/vc_row]

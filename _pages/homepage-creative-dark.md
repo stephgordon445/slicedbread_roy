@@ -1,0 +1,29 @@
+---
+ID: 16895
+post_title: Home
+author: Stephanie
+post_excerpt: ""
+layout: page
+permalink: >
+  http://clientdemo2.stephaniegordondesign.com/
+published: true
+post_date: 2016-03-28 12:55:02
+---
+[vc_row css=".vc_custom_1459259254558{margin-bottom: 0px !important;}" el_id="details"][vc_column][gem_fullwidth background_style="cover" container="1" background_image="16956" padding_top="170" padding_bottom="84"][vc_row_inner][vc_column_inner width="1/2"][/vc_column_inner][vc_column_inner offset="vc_col-lg-6"][vc_column_text css_animation="top-to-bottom"][/vc_column_text][gem_divider margin_top="10"][vc_column_text css_animation="top-to-bottom"]
+<div class="styled-subtitle">
+<h1 class="title textcenter default divider-dark divider-default color-default">Marketing. Creative. Strategy.</h1>
+</div>
+[/vc_column_text][gem_divider margin_top="30"][vc_separator color="custom" align="align_left" el_width="30" accent_color="#00bcd4"][gem_divider margin_top="30"][vc_column_text css_animation="top-to-bottom"]
+<p class="wide-line-spacing"><strong>What we do is simple:</strong> help brands, products, and personalities become a movement that elevates them to the top of their market stratosphere.</p>
+<strong>How we do it is creative:</strong>  employ a diverse strategy of digital tactics that focus on crafting brand messages that resonate with those who buy, deploying strategic advertising campaigns, and engaging influencers who drive brand advocation.[/vc_column_text][gem_divider margin_top="-4"][gem_button style="outline" size="medium" text_weight="thin" corner="0" border="1" icon_pack="elegant" effects_enabled="1" text="learn more" text_color="#00bcd4" border_color="#00bcd4" hover_text_color="#ffffff"][gem_divider margin_top="160"][/vc_column_inner][/vc_row_inner][/gem_fullwidth][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1515173731730{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 90px !important;padding-bottom: 90px !important;background-color: #00bcd4 !important;}" el_class="center"][vc_column width="1/4" css=".vc_custom_1459257460678{margin-top: -19px !important;padding-right: 0px !important;}"][gem_image position="centered" disable_lightbox="1" src="16974"][/vc_column][vc_column width="1/2" css=".vc_custom_1459257376666{padding-left: 0px !important;}"][vc_column_text]
+<div class="styled-subtitle"><span style="font-size: 36px; color: #3c3950;">"To change your organization's digital direction you need to be a maverick, willing to take risks and cause disruption"</span></div>
+<div>-Paul Boag</div>
+[/vc_column_text][/vc_column][vc_column width="1/4"][gem_divider margin_top="-30"][gem_button position="center" style="outline" size="large" text_weight="thin" corner="0" border="1" icon_pack="elegant" text="learn more" text_color="#3c3950" border_color="#3c3950" hover_text_color="#ffffff" hover_background_color="#3c3950"][/vc_column][/vc_row][vc_row css=".vc_custom_1515173717104{padding-bottom: 60px !important;}" el_class="custom_qf_color"][vc_column][gem_fullwidth background_style="cover" container="1" padding_top="20" padding_bottom="0" background_color="#f3f5f5"][vc_column_text css_animation="top-to-bottom"]
+<div class="title-h1" style="text-align: left;">why choose SLICEDBREAD</div>
+[/vc_column_text][gem_divider margin_bottom="-15"][gem_quickfinder style="binded" columns="6" alignment="left" title_weight="thin" effects_enabled="1" quickfinders="featured-services" hover_box_color="#ffffff" hover_icon_color="#dd3333"][gem_divider margin_bottom="-120"][/gem_fullwidth][/vc_column][/vc_row][vc_row css=".vc_custom_1460101980593{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;}"][vc_column css=".vc_custom_1460101989271{margin-top: 0px !important;padding-top: 0px !important;}"][gem_fullwidth container="1" background_image="16987" padding_top="100" padding_bottom="100"][vc_column_text css_animation="top-to-bottom"]
+<h1 style="text-align: center;"><span style="color: #ffffff;"><span class="light">our</span> works</span></h1>
+[/vc_column_text][gem_divider margin_top="132"][vc_column_text css_animation="top-to-bottom"]
+<p style="text-align: center; max-width: 1000px; margin: 0 auto;"><span style="color: #99a9b5;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris ad minim veniam, quis nostrud exercitation ullamco laboris ni nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </span></p>
+[/vc_column_text][gem_divider margin_top="100"][gem_portfolio portfolio_layout="4x" portfolio_gaps_size="0" portfolio_display_titles="hover" portfolio_hover="horizontal-sliding" portfolio_pagination="more" portfolios="splash-light-01" button_style="outline" button_text_weight="thin" button_corner="25" button_border="1" button_icon_pack="elegant" metro_max_row_height="280"][/gem_fullwidth][/vc_column][/vc_row][vc_row css=".vc_custom_1459252930910{margin-bottom: 0px !important;}" el_class="custom-form"][vc_column css=".vc_custom_1460102037133{margin-top: 0px !important;padding-top: 0px !important;}"][gem_fullwidth background_style="cover" container="1" background_image="17162" padding_top="100" padding_bottom="62"][vc_column_text]
+<h2 class="title-h2" style="text-align: center;"><span style="color: #ffffff;"><span class="light">contact</span> us</span></h2>
+[/vc_column_text][gem_divider margin_top="50"][contact-form-7 id="2523" html_class="gem-contact-form-dark"][/gem_fullwidth][/vc_column][/vc_row]
